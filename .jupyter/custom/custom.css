@@ -1,0 +1,3 @@
+:root body[data-notebook='notebooks'] {
+  --jp-notebook-max-width: 100% !important;
+}
